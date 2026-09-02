@@ -1,99 +1,123 @@
-<h1 align="center">Hi there, I'm Sai Charan Tej 👋</h1>
-<h3 align="center">Software Developer | Java Enthusiast | Cloud & ML Learner</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Developer;Java+%2B+Python+Enthusiast;Cloud+Computing+Learner;Building+Full-Stack+Projects" alt="Typing SVG" />
+# K. L. Sai Charan Tej
+
+### B.Tech CSE Student · Aspiring Java & Backend Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Java+Developer;Software+Developer;Backend+Developer;Problem+Solver;DSA+Enthusiast;B.Tech+CSE+Student" alt="Typing SVG" />
+
+<p>
+  <a href="https://saicharan3679.github.io/portfolio_page/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/saicharan-tej-106387239" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/saicharan_369/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="https://saicharan3679.github.io/portfolio_page/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/saicharan-tej-106387239" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/saicharan3679" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-### 🚀 About Me
+## About Me
 
-- 🎓 Computer Science Engineering student building modern software solutions
-- 💻 Focused on **Java** and **Python** development, with growing experience in full-stack and backend work
-- ☁️ Exploring **Cloud Computing** (Google Cloud, Oracle Cloud) and **Machine Learning**
-- 🌱 Continuously practicing DSA, backend development, and cloud architecture
-- 🤝 Open to collaborating on Java, backend, and web-based projects
-- 📍 Based in Proddatur, Andhra Pradesh
+I'm a final-year B.Tech Computer Science student focused on **Java development, backend engineering, and data structures & algorithms**. I enjoy building well-structured software, practicing problem-solving through DSA, and applying software engineering fundamentals in personal projects. Currently preparing for Software Engineering / Java Developer roles by strengthening both my core CS foundations and hands-on project experience.
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+**Languages**
 
-**Currently learning:** Artificial Intelligence · Cloud Architecture · Advanced Backend Development
+<img src="https://skillicons.dev/icons?i=java,python" />
 
----
+**Web Development**
 
-### 📂 Featured Projects
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+**Tools & Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,gcp" />
+
+<br/>
+
+## Featured Projects
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
-**🌐 Portfolio Website**
-Responsive personal portfolio with glassmorphism UI, dark theme, and interactive sections.
+### 🌐 Portfolio Website
+Personal developer portfolio — responsive layout, dark theme, interactive sections.
 
-🔗 [Live Demo](https://saicharan3679.github.io/portfolio_page/) · [Repo](https://github.com/saicharan3679/portfolio_page)
+**Stack:** HTML, CSS, JavaScript
 
-</td>
-<td width="33%" valign="top">
-
-**📺 YouTube Clone**
-Front-end clone of the YouTube homepage — layout, video grid, and sidebar navigation built from scratch.
-
-🔗 [Live Demo](https://saicharan3679.github.io/youtube.com/) · [Repo](https://github.com/saicharan3679/youtube.com)
+🔗 [Live Demo](https://saicharan3679.github.io/portfolio_page/) · [Source](https://github.com/saicharan3679/portfolio_page)
 
 </td>
 <td width="33%" valign="top">
 
-**🚧 TrackMate** *(in progress)*
-Currently under active development — more details coming soon.
+### 📺 YouTube UI Clone
+Front-end recreation of the YouTube homepage — video grid, sidebar, and category navigation built from scratch.
+
+**Stack:** HTML, CSS, JavaScript
+
+🔗 [Live Demo](https://saicharan3679.github.io/youtube.com/) · [Source](https://github.com/saicharan3679/youtube.com)
+
+</td>
+<td width="33%" valign="top">
+
+### 🚧 TrackMate
+_In active development._ Details and a live link will be added once the project reaches a shareable milestone.
+
+**Status:** Work in progress
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 🎓 Education
+## Java & Backend Focus
 
-**Bachelor of Technology** — Computer Science Engineering
+I'm actively deepening my Java skills alongside core software engineering practices:
 
-### 🏆 Achievements
+- **Java & Object-Oriented Programming** — building a strong foundation for backend and application development
+- **Data Structures & Algorithms** — consistent practice via LeetCode
+- **Problem Solving** — applying DSA concepts to real coding challenges
+- **Backend fundamentals** — API design and server-side logic through project work
 
-- Google Cloud Skills Boost
-- Oracle Cloud Learning
-- Programming & DSA Practice
-- Machine Learning Projects
+<br/>
 
----
+## DSA / Coding Practice
 
-### 📊 GitHub Stats
+<div align="center">
+
+<a href="https://leetcode.com/u/saicharan_369/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/saicharan_369?theme=dark&font=Baloo%202&ext=activity" alt="saicharan_369 LeetCode stats" />
+</a>
+
+~78 problems solved on [LeetCode](https://leetcode.com/u/saicharan_369/) (updates live — card reflects current count)
+
+</div>
+
+<br/>
+
+## Currently Learning
+
+- Advanced Java concepts
+- Backend development practices
+- Data Structures & Algorithms (ongoing)
+- Cloud fundamentals — Google Cloud, Oracle Cloud
+
+<br/>
+
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=saicharan3679&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -104,26 +128,30 @@ Currently under active development — more details coming soon.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan3679&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saicharan3679&theme=tokyo-night&hide_border=true" />
-</p>
+<br/>
 
----
+## 🐍 Contribution Activity
 
-### 🌐 Connect with Me
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saicharan3679/saicharan3679/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saicharan3679/saicharan3679/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/saicharan3679/saicharan3679/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-<p align="left">
-  <a href="https://linkedin.com/in/saicharan-tej-106387239" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/saicharan3679" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://saicharan3679.github.io/portfolio_page/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+<br/>
 
----
+## Connect With Me
 
-<p align="center"><i>⭐️ From <a href="https://github.com/saicharan3679">saicharan3679</a> — Thanks for stopping by!</i></p>
+<div align="center">
+
+<a href="https://linkedin.com/in/saicharan-tej-106387239" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/saicharan3679" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/saicharan_369/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center"><sub>Thanks for visiting my profile ⭐</sub></div>
